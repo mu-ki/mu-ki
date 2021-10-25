@@ -1,9 +1,9 @@
 ## Hi there 👋
-[![Visits Badge](https://badges.pufler.dev/visits/mugunthanramesh/mugunthanramesh)](https://github.com/mugunthanramesh)
-[![Repos Badge](https://badges.pufler.dev/repos/mugunthanramesh)](https://github.com/mugunthanramesh)
-[![GitHub followers](https://img.shields.io/github/followers/mugunthanramesh.svg?style=social&label=Follow)](https://github.com/mugunthanramesh?tab=followers)
+[![Visits Badge](https://badges.pufler.dev/visits/mu-ki/mu-ki)](https://github.com/mugunthanramesh)
+[![Repos Badge](https://badges.pufler.dev/repos/mu-ki)](https://github.com/mu-ki)
+[![GitHub followers](https://img.shields.io/github/followers/mu-ki.svg?style=social&label=Follow)](https://github.com/mu-ki?tab=followers)
 
-I am **Mugunthan R!**
+I am **Mugunthan K!**
 
 [![Generic badge](https://img.shields.io/badge/Present-ZohoCorporation-green.svg)](http://zohocorp.com/)
 [![Generic badge](https://img.shields.io/badge/Past-OmdenaAI-red.svg)](https://omdena.com/)
@@ -47,29 +47,29 @@ Ambitious Engineer with good skills in Data Structure and Algorithm. Highly effe
 
 Maps the surroundings of the vehicle and displays it in the dashboard using the camera and distance obtained from the ultrasonic sensor. camera detects the obstacle using a deep     learning network(YOLO is used) and the ultrasonic sensor is used for Distance manipulation.
 
-  [![ADAS Card](https://github-readme-stats.vercel.app/api/pin/?username=mugunthanramesh&repo=ADAS)](https://github.com/mugunthanramesh/ADAS)
+  [![ADAS Card](https://github-readme-stats.vercel.app/api/pin/?username=mu-ki&repo=ADAS)](https://github.com/mu-ki/ADAS)
  
 - **SpeechSearch**
 
 Speech Recognition based project using Python that enables us to explore videos and information and this also has the feature of capturing moments.
 
-[![SS Card](https://github-readme-stats.vercel.app/api/pin/?username=mugunthanramesh&repo=SpeechSearch)](https://github.com/mugunthanramesh/SpeechSearch)
+[![SS Card](https://github-readme-stats.vercel.app/api/pin/?username=mu-ki&repo=SpeechSearch)](https://github.com/mu-ki/SpeechSearch)
 
 ## My GitHub Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mugunthanramesh&show_icons=true&hide_title=true)](https://github.com/mugunthanramesh)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mu-ki&show_icons=true&hide_title=true)](https://github.com/mu-ki)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mugunthanramesh&layout=compact)](https://github.com/mugunthanramesh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mu-ki&layout=compact)](https://github.com/mu-ki)
 
 *Constantly working on improving these counts*
 
 ## 📫 Reach me out @
 
-[![Gmail](icons8-gmail(1).svg)](mailto:mugunthanramesh6@gmail.com)
-[![Linkedin](icons8-linkedin.svg)](https://www.linkedin.com/in/mugunthan-ramesh/)
+[![Gmail](icons8-gmail(1).svg)](mailto:mugunthkumar99@gmail.com)
+[![Linkedin](icons8-linkedin.svg)](https://www.linkedin.com/in/mugunthkumar99/)
 
 <!--
-**mugunthanramesh/mugunthanramesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mu-ki/mu-ki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
