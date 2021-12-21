@@ -1,84 +1,34 @@
-## Hi there 👋
-[![Visits Badge](https://badges.pufler.dev/visits/mu-ki/mu-ki)](https://github.com/mugunthanramesh)
-[![Repos Badge](https://badges.pufler.dev/repos/mu-ki)](https://github.com/mu-ki)
-[![GitHub followers](https://img.shields.io/github/followers/mu-ki.svg?style=social&label=Follow)](https://github.com/mu-ki?tab=followers)
+<h1 align="center">Hi 👋, I'm Mugunthan</h1>
+<h3 align="center">Ambitious Engineer with good skills in RPA and Development. Highly effective working in fast-paced environments. Also has a piece of good knowledge in Software Developing. Interested in Automation and Networking.</h3>
 
-I am **Mugunthan K!**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mu-ki&label=Profile%20views&color=0e75b6&style=flat" alt="mu-ki" /> </p>
 
-[![Generic badge](https://img.shields.io/badge/Present-ZohoCorporation-green.svg)](http://zohocorp.com/)
-[![Generic badge](https://img.shields.io/badge/Past-OmdenaAI-red.svg)](https://omdena.com/)
-[![Generic badge](https://img.shields.io/badge/Past-Amazon-red.svg)](https://www.amazon.com/)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mu-ki" alt="mu-ki" /></a> </p>
 
-Ambitious Engineer with good skills in Data Structure and Algorithm. Highly effective working in fast-paced environments. Also has a piece of good knowledge of Deep Learning and automation processes. Interested in Deep Learning and Computer Vision 
+<p align="left"> <a href="https://twitter.com/mugunthkumar099" target="blank"><img src="https://img.shields.io/twitter/follow/mugunthkumar099?logo=twitter&style=for-the-badge" alt="mugunthkumar099" /></a> </p>
 
-## 🌱 I’m currently learning 
-- Machine Learning
-- DeepLearning
-- Computer Vision
+- 🔭 I’m currently working in Claysys Technology Pvt Ltd. [RPA Genie](https://www.claysys.com/rpagenie/help/index.html)
 
-## 👯 I’m looking to collaborate on
-- AI/ML Projects
+- 👨‍💻 All of my projects are available at [https://github.com/mu-ki?tab=repositories](https://github.com/mu-ki?tab=repositories)
 
-## 💻 Programming Knowledge
+- 📫 How to reach me **mugunthkumar99@gmail.com**
 
-- Python3
-- Java
-- C++
-- MATLAB
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1S7NtpnTgr_JOWJZZOsaFdE_g3qO7mkkN?usp=sharing](https://drive.google.com/drive/folders/1S7NtpnTgr_JOWJZZOsaFdE_g3qO7mkkN?usp=sharing)
 
-## 🥇 My professional Badges
+- ⚡ Fun fact **I'm a Techie Guy**
 
-### Google Cloud:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mugunthkumar099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mugunthkumar099" height="30" width="40" /></a>
+<a href="https://fb.com/mugunthkumar99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mugunthkumar99" height="30" width="40" /></a>
+<a href="https://instagram.com/when_nothing_goes_wrong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="when_nothing_goes_wrong" height="30" width="40" /></a>
+</p>
 
-[![BaseLine-Data_ML_AI](badges/BaseLine-Data_ML_AI.png)](https://google.qwiklabs.com/public_profiles/12e1956b-2ada-4db0-9b9f-5b0100c5d7d6)
-[![Create_and_Manage_Cloud_Resources](badges/Create_and_Manage_Cloud_Resources.png)](https://google.qwiklabs.com/public_profiles/12e1956b-2ada-4db0-9b9f-5b0100c5d7d6)
-[![Perform_Foundational_Data_ML_AI_Tasks.png](badges/Perform_Foundational_Data_ML_AI_Tasks.png)](https://google.qwiklabs.com/public_profiles/12e1956b-2ada-4db0-9b9f-5b0100c5d7d6)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-### IBM:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mu-ki&show_icons=true&locale=en&layout=compact" alt="mu-ki" /></p>
 
-[![Data_Science_Methodologies](badges/Data_Science_Methodologies.png)](https://www.youracclaim.com/badges/eff8c417-1e51-4157-a4f6-68570f31eaeb/public_url)
-[![Deep_Learning_Essentials](badges/Deep_Learning_Essentials.png)](https://www.youracclaim.com/badges/57168c02-1e0e-4ef9-a752-b6927dcc6a42/public_url)
-[![Deep_Learning_Using_TensorFlow](badges/Deep_Learning_Using_TensorFlow.png)](https://www.youracclaim.com/badges/0bd45954-474a-43de-8410-d95bfb323251/public_url)
-[![Machine_Learning_with_Python](badges/Machine_Learning_with_Python.png)](https://www.youracclaim.com/badges/f8e54a94-cc43-445f-a45b-f1cb96095ddb/public_url)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mu-ki&show_icons=true&locale=en" alt="mu-ki" /></p>
 
-## My projects
-
-- **Ultrasonic and Camera-Based Parking Assistant System**
-
-Maps the surroundings of the vehicle and displays it in the dashboard using the camera and distance obtained from the ultrasonic sensor. camera detects the obstacle using a deep     learning network(YOLO is used) and the ultrasonic sensor is used for Distance manipulation.
-
-  [![ADAS Card](https://github-readme-stats.vercel.app/api/pin/?username=mu-ki&repo=ADAS)](https://github.com/mu-ki/ADAS)
- 
-- **SpeechSearch**
-
-Speech Recognition based project using Python that enables us to explore videos and information and this also has the feature of capturing moments.
-
-[![SS Card](https://github-readme-stats.vercel.app/api/pin/?username=mu-ki&repo=SpeechSearch)](https://github.com/mu-ki/SpeechSearch)
-
-## My GitHub Stats
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mu-ki&show_icons=true&hide_title=true)](https://github.com/mu-ki)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mu-ki&layout=compact)](https://github.com/mu-ki)
-
-*Constantly working on improving these counts*
-
-## 📫 Reach me out @
-
-[![Gmail](icons8-gmail(1).svg)](mailto:mugunthkumar99@gmail.com)
-[![Linkedin](icons8-linkedin.svg)](https://www.linkedin.com/in/mugunthkumar99/)
-
-<!--
-**mu-ki/mu-ki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mu-ki&" alt="mu-ki" /></p>
